@@ -1,6 +1,6 @@
 {
 	"name":			"PWA sample",
-	"short_name":		"sample9",
+	"short_name":		"PWA sample10",
 	"start_url":		"index.html",
 	"display":		"standalone",
 	"orientation":		"any",
