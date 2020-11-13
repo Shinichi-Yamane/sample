@@ -2,7 +2,7 @@
 	"name":			"PWA sample",
 	"short_name":		"sample",
 	"start_url":		"index.html",
-	"display":		"minimal-ui",
+	"display":		"standalone",
 	"orientation":		"any",
 	"background_color":	"#fff",
 	"theme_color":		"#fff",
